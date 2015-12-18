@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: musicPlayer
+        psr4_prefix: musicPlayer
+        src_path: app
